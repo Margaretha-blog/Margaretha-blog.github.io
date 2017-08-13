@@ -1,5 +1,11 @@
+
+# Hello World!
+If you stay in comfort zone you'll be easily defeated by the others. 
+If you are in a situation that presses you forward. You'll be stronger and you can handle it. 
+Like a tea bag that is getting stronger so that the tea powder does
+not spill. 
 ## Welcome to GitHub Pages
-## Hello World!
+Without any sadness, pleasure will not come.
 You can use the [editor on GitHub](https://github.com/Margaretha-blog/Margaretha-blog.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
